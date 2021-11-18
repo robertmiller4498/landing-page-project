@@ -16,3 +16,9 @@ h1 {
     justify-content: flex-start;
     align-items: center;
 }
+
+.header_links {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
