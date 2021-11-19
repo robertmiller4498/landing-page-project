@@ -60,4 +60,8 @@ button {
 .architecture_list {
     display: flex;
     flex-direction: row;
+    margin: 0;
+    gap: 8px;
+    justify-content: space-between;
+    align-items: center;
 }
