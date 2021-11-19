@@ -64,4 +64,9 @@ button {
     gap: 8px;
     justify-content: space-between;
     align-items: center;
+    list-style: none;
+}
+
+figcaption {
+    text-align: center;
 }
