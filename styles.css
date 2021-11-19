@@ -56,3 +56,8 @@ button {
     display: flex;
     flex-direction: row;
 }
+
+.architecture_list {
+    display: flex;
+    flex-direction: row;
+}
