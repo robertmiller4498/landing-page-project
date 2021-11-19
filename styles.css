@@ -91,11 +91,6 @@ figure figcaption {
 }
 /*Figure out how to make this text centered under images*/
 
-body {
-    overflow-x: hidden;
-    overflow-y: hidden;
-}
-
 .section_3 p {
     font: 36px light italic #1F2937;
 }
