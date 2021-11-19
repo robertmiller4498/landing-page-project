@@ -6,7 +6,7 @@
     height: 350px;
     width: 450px;
     display:flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: right;
 }
 
@@ -48,4 +48,9 @@ h2 {
 
 button {
     color:#3882F6;
+}
+
+.section_1 p {
+    color:#E5E7EB;
+    font-size: 18px;
 }
