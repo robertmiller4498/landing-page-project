@@ -15,9 +15,11 @@ h1 {
     display:flex;
     justify-content: flex-start;
     align-items: center;
+    font-weight: 50;
+    color: white;
 }
 
-.header {
+header {
     display:flex;
     flex-direction: row;
     flex-wrap: nowrap;
