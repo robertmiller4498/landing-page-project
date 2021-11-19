@@ -5,6 +5,8 @@
 .image_1 {
     height: 350px;
     width: 450px;
+    display: inline-block;
+    text-align: right;
 }
 /*still need to figure out image alignment issue*/
 
@@ -51,11 +53,11 @@ button {
 
 /*work on rounding out the button and making it look smoother*/
 
-.section_1 p {
+.section_1 h2 p {
     color:#E5E7EB;
     font-size: 18px;
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
+    text-align: left;
 }
 /*still need to figure out alignment issue*/
 
