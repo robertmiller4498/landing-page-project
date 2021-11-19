@@ -16,3 +16,16 @@ header {
     display: flex;
     flex-direction: row;
 }
+
+h1 {
+    font-size: large;
+}
+
+.header_links {
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
