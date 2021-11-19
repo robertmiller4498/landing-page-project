@@ -4,15 +4,14 @@
 
 .section_1-main {
     display:inline-block;
-    
+    width 75px;
+    height: 75px;
+
 }
 .image_1 {
     height: 350px;
     width: 450px;
     display:inline-block;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
 }
 /*still need to figure out image alignment issue*/
 
