@@ -1,3 +1,7 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 .image_1 {
     height: 350px;
     width: 450px;
@@ -22,7 +26,6 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 .header_links {
@@ -32,13 +35,11 @@ h1 {
     justify-content: flex-end;
     flex-direction: row;
     align-items: center;
-    font-family: Roboto;
     padding: 10px;
     gap: 10px;
 }
 
 h2 {
-    font-family: roboto;
     font-size: 48px;
     color: white;
     align-items: baseline;
