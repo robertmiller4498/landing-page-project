@@ -6,10 +6,10 @@
     height: 350px;
     width: 450px;
     display:block;
-    margin-left: 80px;
-    margin-right: 20px;
+    margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
+    padding: 32px;
 }
 /*still need to figure out image alignment issue*/
 
