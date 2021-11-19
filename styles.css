@@ -11,17 +11,8 @@
     width: 100px;
 }
 
-h1 {
-    display:flex;
-    justify-content: flex-start;
-    align-items: center;
-    font-weight: 50;
-    color: white;
-}
-
 header {
-    display:flex;
+    color:white;
+    display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
-    color: white;
 }
