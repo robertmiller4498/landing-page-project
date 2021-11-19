@@ -7,7 +7,7 @@
     width: 450px;
     display:flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: right;
 }
 
 .architecture_photos {
@@ -44,4 +44,8 @@ h2 {
     color: white;
     align-items: baseline;
     justify-content: flex-start;
+}
+
+button {
+    color:#3882F6;
 }
