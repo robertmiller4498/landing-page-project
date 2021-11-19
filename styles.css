@@ -5,15 +5,17 @@
 .image_1 {
     height: 350px;
     width: 450px;
-    display:flex;
-    align-items: baseline;
-    justify-content: right;
+    display:block;
+    margin-left: 80px;
+    margin-right: 20px;
+    margin-top:auto;
+    margin-bottom:auto;
 }
 /*still need to figure out image alignment issue*/
 
 .architecture_photos {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 }
 
 header {
