@@ -67,6 +67,8 @@ h3 {
     display:flex;
     justify-content: center;
     align-items: center;
+    margin:0;
+    padding: 10px;
 }
 /*need to check on font and alignment of h3*/
 
@@ -81,7 +83,7 @@ h3 {
     border: 10px #3882F6;
 }
 
-figcaption {
+figure figcaption {
     text-align: center;
 }
 /*Figure out how to make this text centered under images*/
