@@ -17,8 +17,9 @@ h1 {
     align-items: center;
 }
 
-.header_links {
+.header {
     display:flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    color: white;
 }
