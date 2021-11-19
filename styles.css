@@ -89,3 +89,8 @@ figure figcaption {
     text-align: center;
 }
 /*Figure out how to make this text centered under images*/
+
+.section_3 {
+    margin: 300px;
+    padding: 50px;
+}
