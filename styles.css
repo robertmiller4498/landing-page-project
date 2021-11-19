@@ -47,7 +47,8 @@ h2 {
 }
 
 button {
-    color:#3882F6;
+    color:white;
+    background-color: #3882F6;
 }
 
 .section_1 p {
@@ -65,6 +66,7 @@ button {
     justify-content: space-between;
     align-items: center;
     list-style: none;
+    border: 10px #3882F6;
 }
 
 figcaption {
