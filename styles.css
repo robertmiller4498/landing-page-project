@@ -9,6 +9,7 @@
     align-items: baseline;
     justify-content: right;
 }
+/*still need to figure out image alignment issue*/
 
 .architecture_photos {
     height: 100px;
@@ -51,11 +52,21 @@ button {
     background-color: #3882F6;
 }
 
+/*work on rounding out the button and making it look smoother*/
+
 .section_1 p {
     color:#E5E7EB;
     font-size: 18px;
     display: flex;
     flex-direction: row;
+}
+/*still need to figure out alignment issue*/
+
+h3 {
+    font: 36px extra-bold #1F2937;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .architecture_list {
@@ -72,3 +83,4 @@ button {
 figcaption {
     text-align: center;
 }
+/*Figure out how to make this text centered under images*/
