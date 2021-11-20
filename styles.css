@@ -6,19 +6,23 @@
     color:#E5E7EB;
     font-size: 18px;
     display: flex;
-    justify-content: flex-start;
     flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 #image_1>img {
     height: 150px;
     width: 225px;
+    justify-content: flex-end;
+    align-items: auto;
 }
 
 #about {
     width: 50%;
     margin-left: 250px;
     height: auto;
+    justify-content: flex-start;
+    align-items: auto;
 }
 /*still need to figure out alignment issue*/
 /*still need to figure out image alignment issue*/
