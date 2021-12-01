@@ -3,14 +3,16 @@
 }
 .image_1 {
     height: 350px;
-    width: 450px;
-    display:block;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-    padding: 32px;
-}
-/*still need to figure out image alignment issue*/
+     width: 450px;
+     display:block;
+     margin-left: auto;
+     margin-top:auto;
+     margin-bottom:auto;
+     margin-top: 25%;
+     margin-bottom: 25%;
+     padding: 32px;
+ }
+ /*still need to figure out image alignment issue*/
 .architecture_photos {
     height: 150px;
     width: 150px;
@@ -45,8 +47,10 @@ h2 {
 button {
     color:white;
     background-color: #3882F6;
+    border-radius: 15px;
 }
-/*work on rounding out the button and making it look smoother*/
+/*work on rounding out the button and making it look smoother (border-radius)*/
+
 .section_1 p {
     color:#E5E7EB;
     font-size: 18px;
@@ -54,6 +58,7 @@ button {
     flex-direction: row;
 }
 /*still need to figure out alignment issue*/
+
 h3 {
     font: 36px extra-bold #1F2937;
     display:flex;
@@ -63,6 +68,7 @@ h3 {
     padding: 10px;
 }
 /*need to check on font and alignment of h3*/
+
 .architecture_list {
     display: flex;
     flex-direction: row;
@@ -77,3 +83,7 @@ figure figcaption {
     text-align: center;
 }
 /*Figure out how to make this text centered under images*/
+
+.section_3 p {
+    font: 36px light italic #1F2937;
+}
