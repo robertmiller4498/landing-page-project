@@ -3,16 +3,17 @@
 }
 .image_1 {
     height: 350px;
-     width: 450px;
-     display:flex;
-     align-items: center;
-     justify-content: flex-end;
-     justify-content: right;
- }
-
- .architecture_photos {
-    height: 100px;
-    width: 100px;
+    width: 450px;
+    display:block;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    padding: 32px;
+}
+/*still need to figure out image alignment issue*/
+.architecture_photos {
+    height: 150px;
+    width: 150px;
 }
 header {
     color:white;
@@ -37,10 +38,42 @@ h1 {
 }
 h2 {
     font-size: 48px;
-     color: white;
-     align-items: baseline;
-     justify-content: flex-start;
- }
-
- button {
-     color:#3882F6;
+    color: white;
+    align-items: baseline;
+    justify-content: flex-start;
+}
+button {
+    color:white;
+    background-color: #3882F6;
+}
+/*work on rounding out the button and making it look smoother*/
+.section_1 p {
+    color:#E5E7EB;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+}
+/*still need to figure out alignment issue*/
+h3 {
+    font: 36px extra-bold #1F2937;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    padding: 10px;
+}
+/*need to check on font and alignment of h3*/
+.architecture_list {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    gap: 8px;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    border: 10px #3882F6;
+}
+figure figcaption {
+    text-align: center;
+}
+/*Figure out how to make this text centered under images*/
