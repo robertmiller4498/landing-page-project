@@ -57,6 +57,9 @@ button {
     background-color: #3882F6;
     height: 20px;
     width: 70px;
+    position: absolute;
+    right: 75%;
+    top: 150%;
 }
 /*work on rounding out the button and making it look smoother*/
 h3 {
