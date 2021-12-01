@@ -55,6 +55,8 @@ h2 {
 button {
     color:white;
     background-color: #3882F6;
+    height: 20px;
+    width: 70px;
 }
 /*work on rounding out the button and making it look smoother*/
 h3 {
@@ -80,6 +82,7 @@ figure figcaption {
     text-align: center;
 }
 /*Figure out how to make this text centered under images*/
+
 .section_3 {
     margin: 300px;
     padding: 50px;
