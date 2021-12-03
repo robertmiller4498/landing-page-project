@@ -30,23 +30,34 @@ header {
 #section_1 {
   min-height: 100vh;
   display: flex;
-  padding: 32px;
+  flex-flow: nowrap;
+  padding: 40px;
+  justify-content: center;
 }
 
 .section_1_left {
   width: 50vw;
-  padding: 16px;
-  margin: 16px;
+  padding:20px;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 48px extra-bold;
+  color: #F9FAF8;
+}
+
+.section_1_left p {
+  color: white;
 }
 
 .section_1_right {
   width: 50vw;
-  padding: 16px;
-  margin: 16px;
+  padding: 20px;
+  margin: 20px;
+  margin-left: 300px;
 }
 
 .image_1 {
-  height: 350px;
-  width: 450px;
+  height: 250px;
+  width: 350px;
 }
-
