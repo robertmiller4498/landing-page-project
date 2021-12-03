@@ -62,3 +62,25 @@ h2 {
   height: 350px;
   width: 450px;
 }
+
+/*THIS LINE SEPERATES THE END OF SECTION_1 FROM THE BEGINNING OF SECTION_2*/
+
+h3 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: extra-bold;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .architecture_list {
+       display: flex;
+       flex-direction: row;
+       margin: 0;
+       gap: 8px;
+       justify-content: space-between;
+       align-items: center;
+       list-style: none;
+  }
+  
+  
