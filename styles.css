@@ -102,26 +102,23 @@ h3 {
   /*THIS LINE SEPERATES THE END OF SECTION_2 AND THE BEGINNING OF SECTION_3*/
 
   #section_3 {
-    height: 300px;
+    height: 25%;
     width: auto;
-    display: flex;
-    justify-content: center;
-    align-self: center;
-    flex-direction: column;
-    flex-flow: wrap;
   }
   
   .section_3_body_text{
     font-size: 36px;
     color: #1F2937;
     font-style: light italic;
-    margin-left: 100px;
-    margin-right:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+    padding:25px;
   }
   
   .thor_signoff {
     display: flex;
-    justify-content: flex-end;
-    margin-bottom: 200px;
     margin-left: 70%;
     }
