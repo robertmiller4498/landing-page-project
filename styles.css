@@ -30,14 +30,19 @@ header {
 #section_1 {
   min-height: 100vh;
   display: flex;
+  padding: 32px;
 }
 
 .section_1_left {
   width: 50vw;
+  padding: 16px;
+  margin: 16px;
 }
 
 .section_1_right {
   width: 50vw;
+  padding: 16px;
+  margin: 16px;
 }
 
 .image_1 {
