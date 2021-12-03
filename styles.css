@@ -113,6 +113,15 @@ h3 {
   
   .section_3_body_text{
     font-size: 36px;
-    font-style: light italic;
     color: #1F2937;
+    font-style: light italic;
+    margin-left: 100px;
+    margin-right:100px;
   }
+  
+  .thor_signoff {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 200px;
+    margin-left: 70%;
+    }
