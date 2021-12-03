@@ -98,3 +98,21 @@ h3 {
        border: 10px;
        border: 15px #3882F6;
   }
+
+  /*THIS LINE SEPERATES THE END OF SECTION_2 AND THE BEGINNING OF SECTION_3*/
+
+  #section_3 {
+    height: 300px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+    flex-flow: wrap;
+  }
+  
+  .section_3_body_text{
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+  }
