@@ -40,6 +40,13 @@ header {
   padding:20px;
 }
 
+.button_sec1 {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 5px;
+    border:5px;
+  }
+
 h2 {
   font-size: 48px;
   font-weight: extra-bold;
