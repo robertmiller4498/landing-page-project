@@ -145,6 +145,16 @@ h3 {
         margin: 100px;
         padding: 50px;
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
+        border-radius: 25px;
+      }
+      
+      .button_sec2 {
+        border: 1px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 5px;
+        background-color: #3882F6;
+        color: white;
       }
