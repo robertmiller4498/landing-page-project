@@ -105,8 +105,10 @@ h3 {
        width: 100px;
        height: 150px;
        width: 150px;
-       border: 10px;
-       border: 15px #3882F6;
+       border: 5px;
+    border-style: solid;
+     border-color: #3882F6;
+     border-radius: 8%;
   }
 
   /*THIS LINE SEPERATES THE END OF SECTION_2 AND THE BEGINNING OF SECTION_3*/
