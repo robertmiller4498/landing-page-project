@@ -156,3 +156,26 @@ h3 {
         background-color: #3882F6;
         color: white;
       }
+
+      .call_to_action h4 {
+        color: white;
+        
+      }
+      
+      .call_to_action p {
+        color: #E5E7EB;
+      }
+      
+      .call_to_action_words {
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        
+      }
+      
+      #section_5 {
+        color: #E5E7EB;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
