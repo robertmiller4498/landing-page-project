@@ -19,6 +19,10 @@ header {
   justify-content: space-between;
 }
 
+.header_bar {
+  background-color: #1F2937;
+}
+
 .header_links {
   color: #E5E7EB;
   display: flex;
@@ -36,6 +40,7 @@ header {
   flex-flow: nowrap;
   padding: 40px;
   justify-content: center;
+  background-color: #1F2937;
 }
 
 .section_1_left {
@@ -141,13 +146,14 @@ h3 {
       
       .call_to_action {
         background-color: #3882F6;
-        height: 40px;
+        height: 50px;
+        width: 800px;
         margin: 100px;
         padding: 50px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border-radius: 25px;
+        border-radius: 12px;
       }
       
       .button_sec2 {
@@ -157,6 +163,8 @@ h3 {
         border-radius: 5px;
         background-color: #3882F6;
         color: white;
+        height: 30px;
+        width: 150px;
       }
 
       .call_to_action h4 {
