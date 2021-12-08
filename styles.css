@@ -10,3 +10,21 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.nav_bar {
+  background-color: #1F2937;
+  display: flex;
+  padding: 20px 0px 20px 100px;
+  align-items: center;
+}
+
+h1 {
+  color: #F9FAF8;
+  font-size: 24px;
+  justify-content: flex-start;
+}
+
+.header_links {
+  font-size: 18px;
+  color:#E5E7EB
+}
